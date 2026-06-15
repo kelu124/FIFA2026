@@ -1,6 +1,6 @@
 # Group Standings & Bracket Progress
 
-_Updated Jun 14, 2026 (partial — 3 matches still to play today)_
+_Updated Jun 15, 2026_
 
 ---
 
@@ -43,23 +43,23 @@ _Jun 12: USA 4-1 Paraguay · Jun 14: Australia 2-0 Turkey_
 
 | Team | P | W | D | L | GF | GA | GD | Pts |
 |------|---|---|---|---|----|----|----|-----|
-| Germany | 1 | 1 | 0 | 0 | 4 | 0 | +4 | **3** |
-| Ivory Coast | 0 | — | — | — | — | — | — | — |
-| Ecuador | 0 | — | — | — | — | — | — | — |
-| Curaçao | 1 | 0 | 0 | 1 | 0 | 4 | -4 | **0** |
+| Germany | 1 | 1 | 0 | 0 | 7 | 1 | +6 | **3** |
+| Ivory Coast | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| Ecuador | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| Curaçao | 1 | 0 | 0 | 1 | 1 | 7 | -6 | **0** |
 
-_Jun 14: Germany 4-0 Curaçao · Ivory Coast vs Ecuador — pending_
+_Jun 14: Germany 7-1 Curaçao · Ivory Coast 1-0 Ecuador_
 
 ### Group F _(Netherlands · Japan · Sweden · Tunisia)_
 
 | Team | P | W | D | L | GF | GA | GD | Pts |
 |------|---|---|---|---|----|----|----|-----|
-| Netherlands | 0 | — | — | — | — | — | — | — |
-| Japan | 0 | — | — | — | — | — | — | — |
-| Sweden | 0 | — | — | — | — | — | — | — |
-| Tunisia | 0 | — | — | — | — | — | — | — |
+| Sweden | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
+| Netherlands | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
+| Japan | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
+| Tunisia | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
 
-_Jun 14: Netherlands vs Japan · Sweden vs Tunisia — both pending_
+_Jun 14: Netherlands 2-2 Japan · Sweden 2-1 Tunisia_
 
 ---
 
@@ -73,10 +73,10 @@ _Jun 14: Netherlands vs Japan · Sweden vs Tunisia — both pending_
 | Jun 13 | Brazil vs Morocco | **1-1** | C |
 | Jun 13 | Haiti vs Scotland | **0-1** | C |
 | Jun 14 | Australia vs Turkey | **2-0** | D |
-| Jun 14 | Germany vs Curaçao | **4-0** | E |
-| Jun 14 | Ivory Coast vs Ecuador | _pending_ | E |
-| Jun 14 | Netherlands vs Japan | _pending_ | F |
-| Jun 14 | Sweden vs Tunisia | _pending_ | F |
+| Jun 14 | Germany vs Curaçao | **7-1** | E |
+| Jun 14 | Ivory Coast vs Ecuador | **1-0** | E |
+| Jun 14 | Netherlands vs Japan | **2-2** | F |
+| Jun 14 | Sweden vs Tunisia | **2-1** | F |
 
 ---
 
