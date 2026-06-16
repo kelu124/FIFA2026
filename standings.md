@@ -1,6 +1,6 @@
 # Group Standings & Bracket Progress
 
-_Updated Jun 15, 2026_
+_Updated Jun 16, 2026_
 
 ---
 
@@ -77,6 +77,34 @@ _Jun 14: Netherlands 2-2 Japan · Sweden 2-1 Tunisia_
 | Jun 14 | Ivory Coast vs Ecuador | **1-0** | E |
 | Jun 14 | Netherlands vs Japan | **2-2** | F |
 | Jun 14 | Sweden vs Tunisia | **2-1** | F |
+| Jun 15 | Spain vs Cape Verde | **0-0** | H |
+| Jun 15 | Belgium vs Egypt | **1-1** | G |
+| Jun 15 | Saudi Arabia vs Uruguay | **1-1** | H |
+| Jun 15 | Iran vs New Zealand | **2-2** | G |
+
+---
+
+### Group G _(Belgium · Egypt · Iran · New Zealand)_
+
+| Team | P | W | D | L | GF | GA | GD | Pts |
+|------|---|---|---|---|----|----|----|-----|
+| Belgium | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
+| Egypt | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
+| Iran | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
+| New Zealand | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
+
+_Jun 15: Belgium 1-1 Egypt · Iran 2-2 New Zealand_
+
+### Group H _(Spain · Cape Verde · Uruguay · Saudi Arabia)_
+
+| Team | P | W | D | L | GF | GA | GD | Pts |
+|------|---|---|---|---|----|----|----|-----|
+| Spain | 1 | 0 | 1 | 0 | 0 | 0 | 0 | **1** |
+| Cape Verde | 1 | 0 | 1 | 0 | 0 | 0 | 0 | **1** |
+| Uruguay | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
+| Saudi Arabia | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
+
+_Jun 15: Spain 0-0 Cape Verde · Saudi Arabia 1-1 Uruguay_
 
 ---
 
