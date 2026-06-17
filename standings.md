@@ -1,6 +1,6 @@
 # Group Standings & Bracket Progress
 
-_Updated Jun 16, 2026_
+_Updated Jun 17, 2026_
 
 ---
 
@@ -81,6 +81,9 @@ _Jun 14: Netherlands 2-2 Japan · Sweden 2-1 Tunisia_
 | Jun 15 | Belgium vs Egypt | **1-1** | G |
 | Jun 15 | Saudi Arabia vs Uruguay | **1-1** | H |
 | Jun 15 | Iran vs New Zealand | **2-2** | G |
+| Jun 16 | France vs Senegal | **3-1** | I |
+| Jun 16 | Norway vs Iraq | **4-1** | I |
+| Jun 16 | Argentina vs Algeria | **3-0** | J |
 
 ---
 
@@ -105,6 +108,30 @@ _Jun 15: Belgium 1-1 Egypt · Iran 2-2 New Zealand_
 | Saudi Arabia | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
 
 _Jun 15: Spain 0-0 Cape Verde · Saudi Arabia 1-1 Uruguay_
+
+---
+
+### Group I _(France · Norway · Senegal · Iraq)_
+
+| Team | P | W | D | L | GF | GA | GD | Pts |
+|------|---|---|---|---|----|----|----|-----|
+| Norway | 1 | 1 | 0 | 0 | 4 | 1 | +3 | **3** |
+| France | 1 | 1 | 0 | 0 | 3 | 1 | +2 | **3** |
+| Senegal | 1 | 0 | 0 | 1 | 1 | 3 | -2 | **0** |
+| Iraq | 1 | 0 | 0 | 1 | 1 | 4 | -3 | **0** |
+
+_Jun 16: France 3-1 Senegal · Norway 4-1 Iraq_
+
+### Group J _(Argentina · Algeria · Austria · Jordan)_
+
+| Team | P | W | D | L | GF | GA | GD | Pts |
+|------|---|---|---|---|----|----|----|-----|
+| Argentina | 1 | 1 | 0 | 0 | 3 | 0 | +3 | **3** |
+| Austria | 0 | — | — | — | — | — | — | — |
+| Jordan | 0 | — | — | — | — | — | — | — |
+| Algeria | 1 | 0 | 0 | 1 | 0 | 3 | -3 | **0** |
+
+_Jun 16: Argentina 3-0 Algeria · Austria vs Jordan — Jun 17_
 
 ---
 
