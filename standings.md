@@ -1,6 +1,6 @@
 # Group Standings & Bracket Progress
 
-_Updated Jun 17, 2026_
+_Updated Jun 18, 2026_
 
 ---
 
@@ -84,6 +84,11 @@ _Jun 14: Netherlands 2-2 Japan · Sweden 2-1 Tunisia_
 | Jun 16 | France vs Senegal | **3-1** | I |
 | Jun 16 | Norway vs Iraq | **4-1** | I |
 | Jun 16 | Argentina vs Algeria | **3-0** | J |
+| Jun 17 | Austria vs Jordan | **3-1** | J |
+| Jun 17 | Portugal vs DR Congo | **1-1** | K |
+| Jun 17 | England vs Croatia | **4-2** | L |
+| Jun 17 | Ghana vs Panama | **1-0** | L |
+| Jun 17 | Colombia vs Uzbekistan | **1-0** | K |
 
 ---
 
@@ -127,11 +132,35 @@ _Jun 16: France 3-1 Senegal · Norway 4-1 Iraq_
 | Team | P | W | D | L | GF | GA | GD | Pts |
 |------|---|---|---|---|----|----|----|-----|
 | Argentina | 1 | 1 | 0 | 0 | 3 | 0 | +3 | **3** |
-| Austria | 0 | — | — | — | — | — | — | — |
-| Jordan | 0 | — | — | — | — | — | — | — |
+| Austria | 1 | 1 | 0 | 0 | 3 | 1 | +2 | **3** |
+| Jordan | 1 | 0 | 0 | 1 | 1 | 3 | -2 | **0** |
 | Algeria | 1 | 0 | 0 | 1 | 0 | 3 | -3 | **0** |
 
-_Jun 16: Argentina 3-0 Algeria · Austria vs Jordan — Jun 17_
+_Jun 16: Argentina 3-0 Algeria · Jun 17: Austria 3-1 Jordan_
+
+---
+
+### Group K _(Portugal · Colombia · DR Congo · Uzbekistan)_
+
+| Team | P | W | D | L | GF | GA | GD | Pts |
+|------|---|---|---|---|----|----|----|-----|
+| Colombia | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| Portugal | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
+| DR Congo | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
+| Uzbekistan | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+
+_Jun 17: Portugal 1-1 DR Congo · Colombia 1-0 Uzbekistan_
+
+### Group L _(England · Ghana · Croatia · Panama)_
+
+| Team | P | W | D | L | GF | GA | GD | Pts |
+|------|---|---|---|---|----|----|----|-----|
+| England | 1 | 1 | 0 | 0 | 4 | 2 | +2 | **3** |
+| Ghana | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| Croatia | 1 | 0 | 0 | 1 | 2 | 4 | -2 | **0** |
+| Panama | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+
+_Jun 17: England 4-2 Croatia · Ghana 1-0 Panama_
 
 ---
 
