@@ -1,21 +1,32 @@
 # Group Standings & Bracket Progress
 
-_Updated Jun 18, 2026_
+_Updated Jun 19, 2026_
 
 ---
 
 ## Group Stage
 
+### Group A _(Mexico · Czechia · South Africa · South Korea)_
+
+| Team | P | W | D | L | GF | GA | GD | Pts |
+|------|---|---|---|---|----|----|----|-----|
+| Mexico | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| Czechia | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
+| South Africa | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
+| South Korea | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+
+_Jun 18: Czechia 1-1 South Africa · Mexico 1-0 South Korea_
+
 ### Group B _(Canada · Bosnia · Qatar · Switzerland)_
 
 | Team | P | W | D | L | GF | GA | GD | Pts |
 |------|---|---|---|---|----|----|----|-----|
-| Canada | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
-| Bosnia & Herzegovina | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
-| Qatar | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
-| Switzerland | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
+| Canada | 2 | 1 | 1 | 0 | 7 | 1 | +6 | **4** |
+| Switzerland | 2 | 1 | 1 | 0 | 5 | 2 | +3 | **4** |
+| Bosnia & Herzegovina | 2 | 0 | 1 | 1 | 2 | 5 | -3 | **1** |
+| Qatar | 2 | 0 | 1 | 1 | 1 | 7 | -6 | **1** |
 
-_Jun 12: Canada 1-1 Bosnia · Jun 13: Qatar 1-1 Switzerland_
+_Jun 12: Canada 1-1 Bosnia · Jun 13: Qatar 1-1 Switzerland · Jun 18: Switzerland 4-1 Bosnia · Canada 6-0 Qatar_
 
 ### Group C _(Brazil · Morocco · Haiti · Scotland)_
 
@@ -89,6 +100,10 @@ _Jun 14: Netherlands 2-2 Japan · Sweden 2-1 Tunisia_
 | Jun 17 | England vs Croatia | **4-2** | L |
 | Jun 17 | Ghana vs Panama | **1-0** | L |
 | Jun 17 | Colombia vs Uzbekistan | **1-0** | K |
+| Jun 18 | Czechia vs South Africa | **1-1** | A |
+| Jun 18 | Switzerland vs Bosnia | **4-1** | B |
+| Jun 18 | Canada vs Qatar | **6-0** | B |
+| Jun 18 | Mexico vs South Korea | **1-0** | A |
 
 ---
 
