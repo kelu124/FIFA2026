@@ -1,6 +1,6 @@
 # Group Standings & Bracket Progress
 
-_Updated Jun 19, 2026_
+_Updated Jun 20, 2026_
 
 ---
 
@@ -32,23 +32,23 @@ _Jun 12: Canada 1-1 Bosnia · Jun 13: Qatar 1-1 Switzerland · Jun 18: Switzerla
 
 | Team | P | W | D | L | GF | GA | GD | Pts |
 |------|---|---|---|---|----|----|----|-----|
-| Scotland | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| Brazil | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
-| Morocco | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
-| Haiti | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| Brazil | 2 | 1 | 1 | 0 | 4 | 1 | +3 | **4** |
+| Morocco | 2 | 1 | 1 | 0 | 2 | 1 | +1 | **4** |
+| Scotland | 2 | 1 | 0 | 1 | 1 | 1 | 0 | **3** |
+| Haiti | 2 | 0 | 0 | 2 | 0 | 4 | -4 | **0** |
 
-_Jun 13: Brazil 1-1 Morocco · Haiti 0-1 Scotland_
+_Jun 13: Brazil 1-1 Morocco · Haiti 0-1 Scotland · Jun 19: Morocco 1-0 Scotland · Brazil 3-0 Haiti_
 
 ### Group D _(USA · Paraguay · Australia · Turkey)_
 
 | Team | P | W | D | L | GF | GA | GD | Pts |
 |------|---|---|---|---|----|----|----|-----|
-| USA | 1 | 1 | 0 | 0 | 4 | 1 | +3 | **3** |
-| Australia | 1 | 1 | 0 | 0 | 2 | 0 | +2 | **3** |
-| Paraguay | 1 | 0 | 0 | 1 | 1 | 4 | -3 | **0** |
-| Turkey | 1 | 0 | 0 | 1 | 0 | 2 | -2 | **0** |
+| USA | 2 | 2 | 0 | 0 | 6 | 1 | +5 | **6** |
+| Australia | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
+| Paraguay | 2 | 1 | 0 | 1 | 2 | 4 | -2 | **3** |
+| Turkey | 2 | 0 | 0 | 2 | 0 | 3 | -3 | **0** |
 
-_Jun 12: USA 4-1 Paraguay · Jun 14: Australia 2-0 Turkey_
+_Jun 12: USA 4-1 Paraguay · Jun 14: Australia 2-0 Turkey · Jun 19: USA 2-0 Australia · Paraguay 1-0 Turkey_
 
 ### Group E _(Germany · Curaçao · Ivory Coast · Ecuador)_
 
@@ -104,6 +104,10 @@ _Jun 14: Netherlands 2-2 Japan · Sweden 2-1 Tunisia_
 | Jun 18 | Switzerland vs Bosnia | **4-1** | B |
 | Jun 18 | Canada vs Qatar | **6-0** | B |
 | Jun 18 | Mexico vs South Korea | **1-0** | A |
+| Jun 19 | USA vs Australia | **2-0** | D |
+| Jun 19 | Morocco vs Scotland | **1-0** | C |
+| Jun 19 | Brazil vs Haiti | **3-0** | C |
+| Jun 19 | Paraguay vs Turkey | **1-0** | D |
 
 ---
 
