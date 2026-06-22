@@ -1,6 +1,6 @@
 # Group Standings & Bracket Progress
 
-_Updated Jun 21, 2026_
+_Updated Jun 22, 2026_
 
 ---
 
@@ -112,6 +112,10 @@ _Jun 14: Netherlands 2-2 Japan · Sweden 5-1 Tunisia · Jun 20: Netherlands 5-1 
 | Jun 20 | Germany vs Ivory Coast | **2-1** | E |
 | Jun 20 | Ecuador vs Curaçao | **0-0** | E |
 | Jun 20 | Japan vs Tunisia | **0-0** | F |
+| Jun 21 | Spain vs Saudi Arabia | **4-0** | H |
+| Jun 21 | Belgium vs Iran | **0-0** | G |
+| Jun 21 | Uruguay vs Cape Verde | **2-2** | H |
+| Jun 21 | New Zealand vs Egypt | **1-3** | G |
 
 ---
 
@@ -119,23 +123,23 @@ _Jun 14: Netherlands 2-2 Japan · Sweden 5-1 Tunisia · Jun 20: Netherlands 5-1 
 
 | Team | P | W | D | L | GF | GA | GD | Pts |
 |------|---|---|---|---|----|----|----|-----|
-| Belgium | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
-| Egypt | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
-| Iran | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
-| New Zealand | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
+| Egypt | 2 | 1 | 1 | 0 | 4 | 2 | +2 | **4** |
+| Belgium | 2 | 0 | 2 | 0 | 1 | 1 | 0 | **2** |
+| Iran | 2 | 0 | 2 | 0 | 2 | 2 | 0 | **2** |
+| New Zealand | 2 | 0 | 1 | 1 | 3 | 5 | -2 | **1** |
 
-_Jun 15: Belgium 1-1 Egypt · Iran 2-2 New Zealand_
+_Jun 15: Belgium 1-1 Egypt · Iran 2-2 New Zealand · Jun 21: Belgium 0-0 Iran · Egypt 3-1 New Zealand_
 
 ### Group H _(Spain · Cape Verde · Uruguay · Saudi Arabia)_
 
 | Team | P | W | D | L | GF | GA | GD | Pts |
 |------|---|---|---|---|----|----|----|-----|
-| Spain | 1 | 0 | 1 | 0 | 0 | 0 | 0 | **1** |
-| Cape Verde | 1 | 0 | 1 | 0 | 0 | 0 | 0 | **1** |
-| Uruguay | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
-| Saudi Arabia | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
+| Spain | 2 | 1 | 1 | 0 | 4 | 0 | +4 | **4** |
+| Cape Verde | 2 | 0 | 2 | 0 | 2 | 2 | 0 | **2** |
+| Uruguay | 2 | 0 | 2 | 0 | 3 | 3 | 0 | **2** |
+| Saudi Arabia | 2 | 0 | 1 | 1 | 1 | 5 | -4 | **1** |
 
-_Jun 15: Spain 0-0 Cape Verde · Saudi Arabia 1-1 Uruguay_
+_Jun 15: Spain 0-0 Cape Verde · Saudi Arabia 1-1 Uruguay · Jun 21: Spain 4-0 Saudi Arabia · Uruguay 2-2 Cape Verde_
 
 ---
 
