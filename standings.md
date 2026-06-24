@@ -1,6 +1,6 @@
 # Group Standings & Bracket Progress
 
-_Updated Jun 23, 2026_
+_Updated Jun 24, 2026_
 
 ---
 
@@ -119,7 +119,11 @@ _Jun 14: Netherlands 2-2 Japan · Sweden 5-1 Tunisia · Jun 20: Netherlands 5-1 
 | Jun 22 | Argentina vs Austria | **2-0** | J |
 | Jun 22 | France vs Iraq | **3-0** | I |
 | Jun 22 | Norway vs Senegal | **3-2** | I |
-| Jun 22 | Jordan vs Algeria | _pending_ | J |
+| Jun 22 | Jordan vs Algeria | **1-2** | J |
+| Jun 23 | Portugal vs Uzbekistan | **5-0** | K |
+| Jun 23 | England vs Ghana | **0-0** | L |
+| Jun 23 | Panama vs Croatia | **0-1** | L |
+| Jun 23 | Colombia vs DR Congo | _pending_ | K |
 
 ---
 
@@ -164,10 +168,10 @@ _Jun 16: France 3-1 Senegal · Norway 4-1 Iraq · Jun 22: France 3-0 Iraq · Nor
 |------|---|---|---|---|----|----|----|-----|
 | Argentina | 2 | 2 | 0 | 0 | 5 | 0 | +5 | **6** |
 | Austria | 2 | 1 | 0 | 1 | 3 | 3 | 0 | **3** |
-| Jordan | 1 | 0 | 0 | 1 | 1 | 3 | -2 | **0** |
-| Algeria | 1 | 0 | 0 | 1 | 0 | 3 | -3 | **0** |
+| Algeria | 2 | 1 | 0 | 1 | 2 | 4 | -2 | **3** |
+| Jordan | 2 | 0 | 0 | 2 | 2 | 5 | -3 | **0** |
 
-_Jun 16: Argentina 3-0 Algeria · Jun 17: Austria 3-1 Jordan · Jun 22: Argentina 2-0 Austria · Jordan vs Algeria (in progress)_
+_Jun 16: Argentina 3-0 Algeria · Jun 17: Austria 3-1 Jordan · Jun 22: Argentina 2-0 Austria · Jordan 1-2 Algeria_
 
 ---
 
@@ -175,23 +179,23 @@ _Jun 16: Argentina 3-0 Algeria · Jun 17: Austria 3-1 Jordan · Jun 22: Argentin
 
 | Team | P | W | D | L | GF | GA | GD | Pts |
 |------|---|---|---|---|----|----|----|-----|
+| Portugal | 2 | 1 | 1 | 0 | 6 | 1 | +5 | **4** |
 | Colombia | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| Portugal | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
 | DR Congo | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
-| Uzbekistan | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| Uzbekistan | 2 | 0 | 0 | 2 | 0 | 6 | -6 | **0** |
 
-_Jun 17: Portugal 1-1 DR Congo · Colombia 1-0 Uzbekistan_
+_Jun 17: Portugal 1-1 DR Congo · Colombia 1-0 Uzbekistan · Jun 23: Portugal 5-0 Uzbekistan · Colombia vs DR Congo (pending)_
 
 ### Group L _(England · Ghana · Croatia · Panama)_
 
 | Team | P | W | D | L | GF | GA | GD | Pts |
 |------|---|---|---|---|----|----|----|-----|
-| England | 1 | 1 | 0 | 0 | 4 | 2 | +2 | **3** |
-| Ghana | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| Croatia | 1 | 0 | 0 | 1 | 2 | 4 | -2 | **0** |
-| Panama | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| England | 2 | 1 | 1 | 0 | 4 | 2 | +2 | **4** |
+| Ghana | 2 | 1 | 1 | 0 | 1 | 0 | +1 | **4** |
+| Croatia | 2 | 1 | 0 | 1 | 3 | 4 | -1 | **3** |
+| Panama | 2 | 0 | 0 | 2 | 0 | 2 | -2 | **0** |
 
-_Jun 17: England 4-2 Croatia · Ghana 1-0 Panama_
+_Jun 17: England 4-2 Croatia · Ghana 1-0 Panama · Jun 23: England 0-0 Ghana · Croatia 1-0 Panama_
 
 ---
 
