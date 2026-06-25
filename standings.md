@@ -1,6 +1,6 @@
 # Group Standings & Bracket Progress
 
-_Updated Jun 24, 2026_
+_Updated Jun 25, 2026_
 
 ---
 
@@ -10,34 +10,34 @@ _Updated Jun 24, 2026_
 
 | Team | P | W | D | L | GF | GA | GD | Pts |
 |------|---|---|---|---|----|----|----|-----|
-| Mexico | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| Czechia | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
-| South Africa | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
-| South Korea | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| Mexico | 2 | 2 | 0 | 0 | 4 | 0 | +4 | **6** |
+| South Africa | 2 | 1 | 1 | 0 | 2 | 1 | +1 | **4** |
+| Czechia | 2 | 0 | 1 | 1 | 1 | 4 | -3 | **1** |
+| South Korea | 2 | 0 | 0 | 2 | 0 | 2 | -2 | **0** |
 
-_Jun 18: Czechia 1-1 South Africa · Mexico 1-0 South Korea_
+_Jun 18: Czechia 1-1 South Africa · Mexico 1-0 South Korea · Jun 24: Mexico 3-0 Czechia · South Africa 1-0 South Korea_
 
 ### Group B _(Canada · Bosnia · Qatar · Switzerland)_
 
 | Team | P | W | D | L | GF | GA | GD | Pts |
 |------|---|---|---|---|----|----|----|-----|
-| Canada | 2 | 1 | 1 | 0 | 7 | 1 | +6 | **4** |
-| Switzerland | 2 | 1 | 1 | 0 | 5 | 2 | +3 | **4** |
-| Bosnia & Herzegovina | 2 | 0 | 1 | 1 | 2 | 5 | -3 | **1** |
-| Qatar | 2 | 0 | 1 | 1 | 1 | 7 | -6 | **1** |
+| Switzerland | 3 | 2 | 1 | 0 | 7 | 3 | +4 | **7** |
+| Canada | 3 | 1 | 1 | 1 | 8 | 3 | +5 | **4** |
+| Bosnia & Herzegovina | 3 | 1 | 1 | 1 | 5 | 6 | -1 | **4** |
+| Qatar | 3 | 0 | 1 | 2 | 2 | 10 | -8 | **1** |
 
-_Jun 12: Canada 1-1 Bosnia · Jun 13: Qatar 1-1 Switzerland · Jun 18: Switzerland 4-1 Bosnia · Canada 6-0 Qatar_
+_Jun 12: Canada 1-1 Bosnia · Jun 13: Qatar 1-1 Switzerland · Jun 18: Switzerland 4-1 Bosnia · Canada 6-0 Qatar · Jun 24: Switzerland 2-1 Canada · Bosnia 3-1 Qatar_
 
 ### Group C _(Brazil · Morocco · Haiti · Scotland)_
 
 | Team | P | W | D | L | GF | GA | GD | Pts |
 |------|---|---|---|---|----|----|----|-----|
-| Brazil | 2 | 1 | 1 | 0 | 4 | 1 | +3 | **4** |
-| Morocco | 2 | 1 | 1 | 0 | 2 | 1 | +1 | **4** |
-| Scotland | 2 | 1 | 0 | 1 | 1 | 1 | 0 | **3** |
-| Haiti | 2 | 0 | 0 | 2 | 0 | 4 | -4 | **0** |
+| Brazil | 3 | 2 | 1 | 0 | 7 | 1 | +6 | **7** |
+| Morocco | 3 | 2 | 1 | 0 | 6 | 3 | +3 | **7** |
+| Scotland | 3 | 1 | 0 | 2 | 1 | 4 | -3 | **3** |
+| Haiti | 3 | 0 | 0 | 3 | 2 | 8 | -6 | **0** |
 
-_Jun 13: Brazil 1-1 Morocco · Haiti 0-1 Scotland · Jun 19: Morocco 1-0 Scotland · Brazil 3-0 Haiti_
+_Jun 13: Brazil 1-1 Morocco · Haiti 0-1 Scotland · Jun 19: Morocco 1-0 Scotland · Brazil 3-0 Haiti · Jun 24: Brazil 3-0 Scotland · Morocco 4-2 Haiti_
 
 ### Group D _(USA · Paraguay · Australia · Turkey)_
 
@@ -123,7 +123,13 @@ _Jun 14: Netherlands 2-2 Japan · Sweden 5-1 Tunisia · Jun 20: Netherlands 5-1 
 | Jun 23 | Portugal vs Uzbekistan | **5-0** | K |
 | Jun 23 | England vs Ghana | **0-0** | L |
 | Jun 23 | Panama vs Croatia | **0-1** | L |
-| Jun 23 | Colombia vs DR Congo | _pending_ | K |
+| Jun 23 | Colombia vs DR Congo | **1-0** | K |
+| Jun 24 | Switzerland vs Canada | **2-1** | B |
+| Jun 24 | Bosnia vs Qatar | **3-1** | B |
+| Jun 24 | Scotland vs Brazil | **0-3** | C |
+| Jun 24 | Morocco vs Haiti | **4-2** | C |
+| Jun 24 | Czechia vs Mexico | **0-3** | A |
+| Jun 24 | South Africa vs South Korea | **1-0** | A |
 
 ---
 
@@ -179,12 +185,12 @@ _Jun 16: Argentina 3-0 Algeria · Jun 17: Austria 3-1 Jordan · Jun 22: Argentin
 
 | Team | P | W | D | L | GF | GA | GD | Pts |
 |------|---|---|---|---|----|----|----|-----|
+| Colombia | 2 | 2 | 0 | 0 | 2 | 0 | +2 | **6** |
 | Portugal | 2 | 1 | 1 | 0 | 6 | 1 | +5 | **4** |
-| Colombia | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| DR Congo | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
+| DR Congo | 2 | 0 | 1 | 1 | 1 | 2 | -1 | **1** |
 | Uzbekistan | 2 | 0 | 0 | 2 | 0 | 6 | -6 | **0** |
 
-_Jun 17: Portugal 1-1 DR Congo · Colombia 1-0 Uzbekistan · Jun 23: Portugal 5-0 Uzbekistan · Colombia vs DR Congo (pending)_
+_Jun 17: Portugal 1-1 DR Congo · Colombia 1-0 Uzbekistan · Jun 23: Portugal 5-0 Uzbekistan · Colombia 1-0 DR Congo_
 
 ### Group L _(England · Ghana · Croatia · Panama)_
 
