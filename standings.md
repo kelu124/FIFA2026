@@ -1,6 +1,6 @@
 # Group Standings & Bracket Progress
 
-_Updated Jun 27, 2026_
+_Updated Jun 28, 2026_
 
 ---
 
@@ -140,8 +140,14 @@ _Jun 14: Netherlands 2-2 Japan · Sweden 5-1 Tunisia · Jun 20: Netherlands 5-1 
 | Jun 26 | Senegal vs Iraq | **5-0** | I |
 | Jun 26 | Cape Verde vs Saudi Arabia | **0-0** | H |
 | Jun 26 | Uruguay vs Spain | **0-1** | H |
-| Jun 26 | Egypt vs Iran | _pending_ | G |
-| Jun 26 | New Zealand vs Belgium | _pending_ | G |
+| Jun 26 | Egypt vs Iran | **1-1** | G |
+| Jun 26 | New Zealand vs Belgium | **1-5** | G |
+| Jun 27 | Panama vs England | **0-0** | L |
+| Jun 27 | Croatia vs Ghana | **1-0** | L |
+| Jun 27 | Colombia vs Portugal | **1-0** | K |
+| Jun 27 | DR Congo vs Uzbekistan | **2-0** | K |
+| Jun 27 | Algeria vs Austria | **1-1** | J |
+| Jun 27 | Jordan vs Argentina | **2-1** | J |
 
 ---
 
@@ -149,12 +155,12 @@ _Jun 14: Netherlands 2-2 Japan · Sweden 5-1 Tunisia · Jun 20: Netherlands 5-1 
 
 | Team | P | W | D | L | GF | GA | GD | Pts |
 |------|---|---|---|---|----|----|----|-----|
-| Egypt | 2 | 1 | 1 | 0 | 4 | 2 | +2 | **4** |
-| Belgium | 2 | 0 | 2 | 0 | 1 | 1 | 0 | **2** |
-| Iran | 2 | 0 | 2 | 0 | 2 | 2 | 0 | **2** |
-| New Zealand | 2 | 0 | 1 | 1 | 3 | 5 | -2 | **1** |
+| Belgium | 3 | 1 | 2 | 0 | 6 | 2 | +4 | **5** |
+| Egypt | 3 | 1 | 2 | 0 | 5 | 3 | +2 | **5** |
+| Iran | 3 | 0 | 3 | 0 | 3 | 3 | 0 | **3** |
+| New Zealand | 3 | 0 | 1 | 2 | 4 | 10 | -6 | **1** |
 
-_Jun 15: Belgium 1-1 Egypt · Iran 2-2 New Zealand · Jun 21: Belgium 0-0 Iran · Egypt 3-1 New Zealand_
+_Jun 15: Belgium 1-1 Egypt · Iran 2-2 New Zealand · Jun 21: Belgium 0-0 Iran · Egypt 3-1 New Zealand · Jun 26: Egypt 1-1 Iran · New Zealand 1-5 Belgium_
 
 ### Group H _(Spain · Cape Verde · Uruguay · Saudi Arabia)_
 
@@ -184,12 +190,12 @@ _Jun 16: France 3-1 Senegal · Norway 4-1 Iraq · Jun 22: France 3-0 Iraq · Nor
 
 | Team | P | W | D | L | GF | GA | GD | Pts |
 |------|---|---|---|---|----|----|----|-----|
-| Argentina | 2 | 2 | 0 | 0 | 5 | 0 | +5 | **6** |
-| Austria | 2 | 1 | 0 | 1 | 3 | 3 | 0 | **3** |
-| Algeria | 2 | 1 | 0 | 1 | 2 | 4 | -2 | **3** |
-| Jordan | 2 | 0 | 0 | 2 | 2 | 5 | -3 | **0** |
+| Argentina | 3 | 2 | 0 | 1 | 6 | 2 | +4 | **6** |
+| Austria | 3 | 1 | 1 | 1 | 4 | 4 | 0 | **4** |
+| Algeria | 3 | 1 | 1 | 1 | 3 | 5 | -2 | **4** |
+| Jordan | 3 | 1 | 0 | 2 | 4 | 6 | -2 | **3** |
 
-_Jun 16: Argentina 3-0 Algeria · Jun 17: Austria 3-1 Jordan · Jun 22: Argentina 2-0 Austria · Jordan 1-2 Algeria_
+_Jun 16: Argentina 3-0 Algeria · Jun 17: Austria 3-1 Jordan · Jun 22: Argentina 2-0 Austria · Jordan 1-2 Algeria · Jun 27: Algeria 1-1 Austria · Jordan 2-1 Argentina_
 
 ---
 
@@ -197,34 +203,61 @@ _Jun 16: Argentina 3-0 Algeria · Jun 17: Austria 3-1 Jordan · Jun 22: Argentin
 
 | Team | P | W | D | L | GF | GA | GD | Pts |
 |------|---|---|---|---|----|----|----|-----|
-| Colombia | 2 | 2 | 0 | 0 | 2 | 0 | +2 | **6** |
-| Portugal | 2 | 1 | 1 | 0 | 6 | 1 | +5 | **4** |
-| DR Congo | 2 | 0 | 1 | 1 | 1 | 2 | -1 | **1** |
-| Uzbekistan | 2 | 0 | 0 | 2 | 0 | 6 | -6 | **0** |
+| Colombia | 3 | 3 | 0 | 0 | 3 | 0 | +3 | **9** |
+| Portugal | 3 | 1 | 1 | 1 | 6 | 2 | +4 | **4** |
+| DR Congo | 3 | 1 | 1 | 1 | 3 | 2 | +1 | **4** |
+| Uzbekistan | 3 | 0 | 0 | 3 | 0 | 8 | -8 | **0** |
 
-_Jun 17: Portugal 1-1 DR Congo · Colombia 1-0 Uzbekistan · Jun 23: Portugal 5-0 Uzbekistan · Colombia 1-0 DR Congo_
+_Jun 17: Portugal 1-1 DR Congo · Colombia 1-0 Uzbekistan · Jun 23: Portugal 5-0 Uzbekistan · Colombia 1-0 DR Congo · Jun 27: Colombia 1-0 Portugal · DR Congo 2-0 Uzbekistan_
 
 ### Group L _(England · Ghana · Croatia · Panama)_
 
 | Team | P | W | D | L | GF | GA | GD | Pts |
 |------|---|---|---|---|----|----|----|-----|
-| England | 2 | 1 | 1 | 0 | 4 | 2 | +2 | **4** |
-| Ghana | 2 | 1 | 1 | 0 | 1 | 0 | +1 | **4** |
-| Croatia | 2 | 1 | 0 | 1 | 3 | 4 | -1 | **3** |
-| Panama | 2 | 0 | 0 | 2 | 0 | 2 | -2 | **0** |
+| Croatia | 3 | 2 | 0 | 1 | 4 | 4 | 0 | **6** |
+| England | 3 | 1 | 2 | 0 | 4 | 2 | +2 | **5** |
+| Ghana | 3 | 1 | 1 | 1 | 1 | 1 | 0 | **4** |
+| Panama | 3 | 0 | 1 | 2 | 0 | 2 | -2 | **1** |
 
-_Jun 17: England 4-2 Croatia · Ghana 1-0 Panama · Jun 23: England 0-0 Ghana · Croatia 1-0 Panama_
+_Jun 17: England 4-2 Croatia · Ghana 1-0 Panama · Jun 23: England 0-0 Ghana · Croatia 1-0 Panama · Jun 27: Croatia 1-0 Ghana · Panama 0-0 England_
 
 ---
 
 ## Knockout Bracket
 
-_To be filled in once the group stage is complete._
+### Round of 32
 
-| Round | Match | Result |
-|-------|-------|--------|
-| Round of 32 | | |
-| Round of 16 | | |
-| Quarter-finals | | |
-| Semi-finals | | |
-| Final | | |
+| Date | Match | Venue | Result |
+|------|-------|-------|--------|
+| Jun 28 | South Africa vs Canada | Los Angeles | |
+| Jun 29 | Brazil vs Japan | Houston | |
+| Jun 29 | Germany vs Paraguay | Foxborough | |
+| Jun 29 | Netherlands vs Morocco | Monterrey | |
+| Jun 30 | Ivory Coast vs Norway | Arlington | |
+| Jun 30 | France vs Sweden | MetLife (NJ) | |
+| Jun 30 | Mexico vs Ecuador | Azteca (Mexico City) | |
+| Jul 1 | Croatia vs Senegal | Atlanta | |
+| Jul 1 | Belgium vs South Korea | Seattle | |
+| Jul 1 | USA vs Bosnia | Santa Clara | |
+| Jul 2 | Spain vs Austria | Los Angeles | |
+| Jul 2 | Portugal vs England | Toronto | |
+| Jul 2 | Switzerland vs Iran | Vancouver | |
+| Jul 3 | Australia vs Egypt | Arlington | |
+| Jul 3 | Argentina vs Cape Verde | Miami | |
+| Jul 3 | Colombia vs Ghana | Kansas City | |
+
+### Round of 16
+
+_To be filled in after Round of 32 results._
+
+### Quarter-finals
+
+_To be filled in._
+
+### Semi-finals
+
+_To be filled in._
+
+### Final
+
+_To be filled in._
