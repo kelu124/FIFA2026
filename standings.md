@@ -1,6 +1,6 @@
 # Group Standings & Bracket Progress
 
-_Updated Jun 26, 2026_
+_Updated Jun 27, 2026_
 
 ---
 
@@ -136,6 +136,12 @@ _Jun 14: Netherlands 2-2 Japan · Sweden 5-1 Tunisia · Jun 20: Netherlands 5-1 
 | Jun 25 | Tunisia vs Netherlands | **1-3** | F |
 | Jun 25 | Turkey vs USA | **2-1** | D |
 | Jun 25 | Paraguay vs Australia | **0-0** | D |
+| Jun 26 | Norway vs France | **4-1** | I |
+| Jun 26 | Senegal vs Iraq | **5-0** | I |
+| Jun 26 | Cape Verde vs Saudi Arabia | **0-0** | H |
+| Jun 26 | Uruguay vs Spain | **0-1** | H |
+| Jun 26 | Egypt vs Iran | _pending_ | G |
+| Jun 26 | New Zealand vs Belgium | _pending_ | G |
 
 ---
 
@@ -154,12 +160,12 @@ _Jun 15: Belgium 1-1 Egypt · Iran 2-2 New Zealand · Jun 21: Belgium 0-0 Iran �
 
 | Team | P | W | D | L | GF | GA | GD | Pts |
 |------|---|---|---|---|----|----|----|-----|
-| Spain | 2 | 1 | 1 | 0 | 4 | 0 | +4 | **4** |
-| Cape Verde | 2 | 0 | 2 | 0 | 2 | 2 | 0 | **2** |
-| Uruguay | 2 | 0 | 2 | 0 | 3 | 3 | 0 | **2** |
-| Saudi Arabia | 2 | 0 | 1 | 1 | 1 | 5 | -4 | **1** |
+| Spain | 3 | 2 | 1 | 0 | 5 | 0 | +5 | **7** |
+| Cape Verde | 3 | 0 | 3 | 0 | 2 | 2 | 0 | **3** |
+| Uruguay | 3 | 0 | 2 | 1 | 3 | 4 | -1 | **2** |
+| Saudi Arabia | 3 | 0 | 2 | 1 | 1 | 5 | -4 | **2** |
 
-_Jun 15: Spain 0-0 Cape Verde · Saudi Arabia 1-1 Uruguay · Jun 21: Spain 4-0 Saudi Arabia · Uruguay 2-2 Cape Verde_
+_Jun 15: Spain 0-0 Cape Verde · Saudi Arabia 1-1 Uruguay · Jun 21: Spain 4-0 Saudi Arabia · Uruguay 2-2 Cape Verde · Jun 26: Cape Verde 0-0 Saudi Arabia · Uruguay 0-1 Spain_
 
 ---
 
@@ -167,12 +173,12 @@ _Jun 15: Spain 0-0 Cape Verde · Saudi Arabia 1-1 Uruguay · Jun 21: Spain 4-0 S
 
 | Team | P | W | D | L | GF | GA | GD | Pts |
 |------|---|---|---|---|----|----|----|-----|
-| Norway | 2 | 2 | 0 | 0 | 7 | 3 | +4 | **6** |
-| France | 2 | 2 | 0 | 0 | 6 | 1 | +5 | **6** |
-| Senegal | 2 | 0 | 0 | 2 | 3 | 6 | -3 | **0** |
-| Iraq | 2 | 0 | 0 | 2 | 1 | 7 | -6 | **0** |
+| Norway | 3 | 3 | 0 | 0 | 11 | 4 | +7 | **9** |
+| France | 3 | 2 | 0 | 1 | 7 | 5 | +2 | **6** |
+| Senegal | 3 | 1 | 0 | 2 | 8 | 6 | +2 | **3** |
+| Iraq | 3 | 0 | 0 | 3 | 1 | 12 | -11 | **0** |
 
-_Jun 16: France 3-1 Senegal · Norway 4-1 Iraq · Jun 22: France 3-0 Iraq · Norway 3-2 Senegal_
+_Jun 16: France 3-1 Senegal · Norway 4-1 Iraq · Jun 22: France 3-0 Iraq · Norway 3-2 Senegal · Jun 26: Norway 4-1 France · Senegal 5-0 Iraq_
 
 ### Group J _(Argentina · Algeria · Austria · Jordan)_
 
