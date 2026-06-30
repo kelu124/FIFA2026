@@ -232,7 +232,7 @@ _Jun 17: England 4-2 Croatia · Ghana 1-0 Panama · Jun 23: England 0-0 Ghana ·
 | Jun 28 | South Africa vs Canada | Los Angeles | **Canada 1-0** |
 | Jun 29 | Brazil vs Japan | Houston | **Brazil 2-1** |
 | Jun 29 | Germany vs Paraguay | Foxborough | **Paraguay 1-1 (4-3 pens)** |
-| Jun 29 | Netherlands vs Morocco | Monterrey | |
+| Jun 29 | Netherlands vs Morocco | Monterrey | **Morocco 1-1 (3-2 pens)** |
 | Jun 30 | Ivory Coast vs Norway | Arlington | |
 | Jun 30 | France vs Sweden | MetLife (NJ) | |
 | Jun 30 | Mexico vs Ecuador | Azteca (Mexico City) | |
@@ -248,7 +248,16 @@ _Jun 17: England 4-2 Croatia · Ghana 1-0 Panama · Jun 23: England 0-0 Ghana ·
 
 ### Round of 16
 
-_To be filled in after Round of 32 results._
+| Date | Match | Venue | Result |
+|------|-------|-------|--------|
+| Jul 4 | Canada vs Morocco | Houston (NRG) | |
+| Jul 4 | Paraguay vs France/Sweden | Philadelphia | |
+| Jul 5 | Brazil vs TBD | MetLife (NJ) | |
+| Jul 5 | TBD vs TBD | Azteca (Mexico City) | |
+| Jul 6 | TBD vs TBD | AT&T Stadium (Dallas) | |
+| Jul 6 | TBD vs TBD | Lumen Field (Seattle) | |
+| Jul 7 | TBD vs TBD | Atlanta | |
+| Jul 7 | TBD vs TBD | BC Place (Vancouver) | |
 
 ### Quarter-finals
 
