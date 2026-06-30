@@ -1,6 +1,6 @@
 # Group Standings & Bracket Progress
 
-_Updated Jun 29, 2026_
+_Updated Jun 30, 2026_
 
 ---
 
@@ -230,8 +230,8 @@ _Jun 17: England 4-2 Croatia · Ghana 1-0 Panama · Jun 23: England 0-0 Ghana ·
 | Date | Match | Venue | Result |
 |------|-------|-------|--------|
 | Jun 28 | South Africa vs Canada | Los Angeles | **Canada 1-0** |
-| Jun 29 | Brazil vs Japan | Houston | |
-| Jun 29 | Germany vs Paraguay | Foxborough | |
+| Jun 29 | Brazil vs Japan | Houston | **Brazil 2-1** |
+| Jun 29 | Germany vs Paraguay | Foxborough | **Paraguay 1-1 (4-3 pens)** |
 | Jun 29 | Netherlands vs Morocco | Monterrey | |
 | Jun 30 | Ivory Coast vs Norway | Arlington | |
 | Jun 30 | France vs Sweden | MetLife (NJ) | |
