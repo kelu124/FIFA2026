@@ -1,6 +1,6 @@
 # Group Standings & Bracket Progress
 
-_Updated Jun 30, 2026_
+_Updated Jul 1, 2026_
 
 ---
 
@@ -233,9 +233,9 @@ _Jun 17: England 4-2 Croatia · Ghana 1-0 Panama · Jun 23: England 0-0 Ghana ·
 | Jun 29 | Brazil vs Japan | Houston | **Brazil 2-1** |
 | Jun 29 | Germany vs Paraguay | Foxborough | **Paraguay 1-1 (4-3 pens)** |
 | Jun 29 | Netherlands vs Morocco | Monterrey | **Morocco 1-1 (3-2 pens)** |
-| Jun 30 | Ivory Coast vs Norway | Arlington | |
-| Jun 30 | France vs Sweden | MetLife (NJ) | |
-| Jun 30 | Mexico vs Ecuador | Azteca (Mexico City) | |
+| Jun 30 | Ivory Coast vs Norway | Arlington | **Norway 2-1** |
+| Jun 30 | France vs Sweden | MetLife (NJ) | **France 3-0** |
+| Jun 30 | Mexico vs Ecuador | Azteca (Mexico City) | **Mexico 2-0** |
 | Jul 1 | Croatia vs Senegal | Atlanta | |
 | Jul 1 | Belgium vs South Korea | Seattle | |
 | Jul 1 | USA vs Bosnia | Santa Clara | |
@@ -251,7 +251,7 @@ _Jun 17: England 4-2 Croatia · Ghana 1-0 Panama · Jun 23: England 0-0 Ghana ·
 | Date | Match | Venue | Result |
 |------|-------|-------|--------|
 | Jul 4 | Canada vs Morocco | Houston (NRG) | |
-| Jul 4 | Paraguay vs France/Sweden | Philadelphia | |
+| Jul 4 | Paraguay vs France | Philadelphia | |
 | Jul 5 | Brazil vs TBD | MetLife (NJ) | |
 | Jul 5 | TBD vs TBD | Azteca (Mexico City) | |
 | Jul 6 | TBD vs TBD | AT&T Stadium (Dallas) | |
