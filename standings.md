@@ -236,12 +236,12 @@ _Jun 17: England 4-2 Croatia · Ghana 1-0 Panama · Jun 23: England 0-0 Ghana ·
 | Jun 30 | Ivory Coast vs Norway | Arlington | **Norway 2-1** |
 | Jun 30 | France vs Sweden | MetLife (NJ) | **France 3-0** |
 | Jun 30 | Mexico vs Ecuador | Azteca (Mexico City) | **Mexico 2-0** |
-| Jul 1 | Croatia vs Senegal | Atlanta | |
-| Jul 1 | Belgium vs South Korea | Seattle | |
+| Jul 1 | England vs DR Congo | Atlanta | |
+| Jul 1 | Belgium vs Senegal | Seattle | |
 | Jul 1 | USA vs Bosnia | Santa Clara | |
 | Jul 2 | Spain vs Austria | Los Angeles | |
-| Jul 2 | Portugal vs England | Toronto | |
-| Jul 2 | Switzerland vs Iran | Vancouver | |
+| Jul 2 | Portugal vs Croatia | Toronto | |
+| Jul 2 | Switzerland vs Algeria | Vancouver | |
 | Jul 3 | Australia vs Egypt | Arlington | |
 | Jul 3 | Argentina vs Cape Verde | Miami | |
 | Jul 3 | Colombia vs Ghana | Kansas City | |
