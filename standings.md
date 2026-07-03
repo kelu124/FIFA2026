@@ -1,6 +1,6 @@
 # Group Standings & Bracket Progress
 
-_Updated Jul 2, 2026 (R16 bracket updated)_
+_Updated Jul 3, 2026_
 
 ---
 
@@ -239,8 +239,8 @@ _Jun 17: England 4-2 Croatia · Ghana 1-0 Panama · Jun 23: England 0-0 Ghana ·
 | Jul 1 | England vs DR Congo | Atlanta | **England 2-1** |
 | Jul 1 | Belgium vs Senegal | Seattle | **Belgium 3-2 AET** |
 | Jul 1 | USA vs Bosnia | Santa Clara | **USA 2-0** |
-| Jul 2 | Spain vs Austria | Los Angeles | |
-| Jul 2 | Portugal vs Croatia | Toronto | |
+| Jul 2 | Spain vs Austria | Los Angeles | **Spain 3-0** |
+| Jul 2 | Portugal vs Croatia | Toronto | **Portugal 2-1** |
 | Jul 2 | Switzerland vs Algeria | Vancouver | |
 | Jul 3 | Australia vs Egypt | Arlington | |
 | Jul 3 | Argentina vs Cape Verde | Miami | |
@@ -254,7 +254,7 @@ _Jun 17: England 4-2 Croatia · Ghana 1-0 Panama · Jun 23: England 0-0 Ghana ·
 | Jul 4 | Paraguay vs France | Philadelphia | |
 | Jul 5 | Brazil vs Norway | MetLife (NJ) | |
 | Jul 5 | Mexico vs England | Azteca (Mexico City) | |
-| Jul 6 | Portugal/Croatia vs Spain/Austria | AT&T Stadium (Dallas) | |
+| Jul 6 | Portugal vs Spain | AT&T Stadium (Dallas) | |
 | Jul 6 | USA vs Belgium | Lumen Field (Seattle) | |
 | Jul 7 | Argentina/Cape Verde vs Australia/Egypt | Atlanta | |
 | Jul 7 | Switzerland/Algeria vs Colombia/Ghana | BC Place (Vancouver) | |
