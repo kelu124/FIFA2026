@@ -1,6 +1,6 @@
 # Group Standings & Bracket Progress
 
-_Updated Jul 5, 2026_
+_Updated Jul 6, 2026_
 
 ---
 
@@ -252,8 +252,8 @@ _Jun 17: England 4-2 Croatia · Ghana 1-0 Panama · Jun 23: England 0-0 Ghana ·
 |------|-------|-------|--------|
 | Jul 4 | Canada vs Morocco | Houston (NRG) | **Morocco 3-0** |
 | Jul 4 | Paraguay vs France | Philadelphia | **France 1-0** |
-| Jul 5 | Brazil vs Norway | MetLife (NJ) | |
-| Jul 5 | Mexico vs England | Azteca (Mexico City) | |
+| Jul 5 | Brazil vs Norway | MetLife (NJ) | **Norway 2-1** |
+| Jul 5 | Mexico vs England | Azteca (Mexico City) | **England 3-2** |
 | Jul 6 | Portugal vs Spain | AT&T Stadium (Dallas) | |
 | Jul 6 | USA vs Belgium | Lumen Field (Seattle) | |
 | Jul 7 | Argentina vs Egypt | Atlanta | |
@@ -264,7 +264,7 @@ _Jun 17: England 4-2 Croatia · Ghana 1-0 Panama · Jun 23: England 0-0 Ghana ·
 | Date | Match | Venue | Result |
 |------|-------|-------|--------|
 | Jul 9 | Morocco vs France | Gillette Stadium (Foxborough) | |
-| Jul 9 | TBD vs TBD | TBD | |
+| Jul 11 | Norway vs England | Hard Rock Stadium (Miami) | |
 | Jul 10 | TBD vs TBD | TBD | |
 | Jul 10 | TBD vs TBD | TBD | |
 
