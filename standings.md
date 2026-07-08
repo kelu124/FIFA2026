@@ -1,6 +1,6 @@
 # Group Standings & Bracket Progress
 
-_Updated Jul 7, 2026 (R16 Jul 6 results added)_
+_Updated Jul 8, 2026 (R16 Jul 7 results added)_
 
 ---
 
@@ -256,8 +256,8 @@ _Jun 17: England 4-2 Croatia · Ghana 1-0 Panama · Jun 23: England 0-0 Ghana ·
 | Jul 5 | Mexico vs England | Azteca (Mexico City) | **England 3-2** |
 | Jul 6 | Portugal vs Spain | AT&T Stadium (Dallas) | **Spain 0-1** |
 | Jul 6 | USA vs Belgium | Lumen Field (Seattle) | **Belgium 4-1** |
-| Jul 7 | Argentina vs Egypt | Atlanta | |
-| Jul 7 | Switzerland vs Colombia | BC Place (Vancouver) | |
+| Jul 7 | Argentina vs Egypt | Atlanta | **Argentina 3-2 AET** |
+| Jul 7 | Switzerland vs Colombia | BC Place (Vancouver) | **Switzerland 0-0 AET (4-3p)** |
 
 ### Quarter-finals
 
@@ -266,7 +266,7 @@ _Jun 17: England 4-2 Croatia · Ghana 1-0 Panama · Jun 23: England 0-0 Ghana ·
 | Jul 9 | France vs Morocco | Gillette Stadium (Foxborough) | |
 | Jul 10 | Spain vs Belgium | SoFi Stadium (Inglewood) | |
 | Jul 11 | Norway vs England | Hard Rock Stadium (Miami) | |
-| Jul 11 | Argentina/Egypt vs Switzerland/Colombia | Arrowhead Stadium (Kansas City) | |
+| Jul 11 | Argentina vs Switzerland | Arrowhead Stadium (Kansas City) | |
 
 ### Semi-finals
 
