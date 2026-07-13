@@ -1,6 +1,6 @@
 # Group Standings & Bracket Progress
 
-_Updated Jul 12, 2026 (QF Jul 10-11 results added; SF bracket set)_
+_Updated Jul 13, 2026 (corrected Argentina vs Switzerland score to 3-1)_
 
 ---
 
@@ -266,7 +266,7 @@ _Jun 17: England 4-2 Croatia · Ghana 1-0 Panama · Jun 23: England 0-0 Ghana ·
 | Jul 9 | France vs Morocco | Gillette Stadium (Foxborough) | **France 2-0** |
 | Jul 10 | Spain vs Belgium | SoFi Stadium (Inglewood) | **Spain 2-1** |
 | Jul 11 | Norway vs England | Hard Rock Stadium (Miami) | **England 2-1 AET** |
-| Jul 11 | Argentina vs Switzerland | Arrowhead Stadium (Kansas City) | **Argentina 2-1** |
+| Jul 11 | Argentina vs Switzerland | Arrowhead Stadium (Kansas City) | **Argentina 3-1** |
 
 ### Semi-finals
 
