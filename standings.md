@@ -1,6 +1,6 @@
 # Group Standings & Bracket Progress
 
-_Updated Jul 13, 2026 (corrected Argentina vs Switzerland score to 3-1)_
+_Updated Jul 15, 2026 (SF1 France vs Spain result added)_
 
 ---
 
@@ -272,7 +272,7 @@ _Jun 17: England 4-2 Croatia · Ghana 1-0 Panama · Jun 23: England 0-0 Ghana ·
 
 | Date | Match | Venue | Result |
 |------|-------|-------|--------|
-| Jul 14 | France vs Spain | AT&T Stadium (Arlington) | |
+| Jul 14 | France vs Spain | AT&T Stadium (Arlington) | **Spain 2-0** |
 | Jul 15 | England vs Argentina | Mercedes-Benz Stadium (Atlanta) | |
 
 ### Final
