@@ -1,6 +1,6 @@
 # Group Standings & Bracket Progress
 
-_Updated Jul 16, 2026 (SF2 England vs Argentina result added; Final bracket set)_
+_Updated Jul 19, 2026 (3rd place result added)_
 
 ---
 
@@ -279,7 +279,7 @@ _Jun 17: England 4-2 Croatia · Ghana 1-0 Panama · Jun 23: England 0-0 Ghana ·
 
 | Date | Match | Venue | Result |
 |------|-------|-------|--------|
-| Jul 18 | England vs France | Hard Rock Stadium (Miami) | |
+| Jul 18 | England vs France | Hard Rock Stadium (Miami) | **England 6-4** |
 
 ### Final
 
