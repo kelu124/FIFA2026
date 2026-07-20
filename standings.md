@@ -1,6 +1,6 @@
 # Group Standings & Bracket Progress
 
-_Updated Jul 19, 2026 (3rd place result added)_
+_Updated Jul 20, 2026 — 🏆 Tournament complete. Spain are World Cup 2026 champions._
 
 ---
 
@@ -285,4 +285,4 @@ _Jun 17: England 4-2 Croatia · Ghana 1-0 Panama · Jun 23: England 0-0 Ghana ·
 
 | Date | Match | Venue | Result |
 |------|-------|-------|--------|
-| Jul 19 | Spain vs Argentina | MetLife Stadium (East Rutherford) | |
+| Jul 19 | Spain vs Argentina | MetLife Stadium (East Rutherford) | **Spain 1-0 AET** 🏆 |
